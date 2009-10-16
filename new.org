@@ -1,0 +1,4 @@
+# -*- mode: org -*-
+#+TITLE: new
+#+OPTIONS: toc:nil ^:nil
+
