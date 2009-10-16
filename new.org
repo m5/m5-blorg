@@ -1,4 +1,55 @@
 # -*- mode: org -*-
 #+TITLE: new
 #+OPTIONS: toc:nil ^:nil
+* Bases
+** Thm. Let $v_1,..v_n$ be a basis
+then any vector $v$ can be written $v=\sum_{i=0}^n
+{a_iV_i}$
+ie: v=$\sum_{i=1}^n{a_iv_i} = \sum_{i=1}^n{b_iv_i}$
+** Thm 4.12
+Suppose $dim(v) = n$
+if $w_1,..,w_n \in V$, L.I. then $w_1,...,w_n$ forms a basis
+if $w_1,..,w_n$ span $V$ then $w_1,...,w_n$ forms a basis
+** More
+Suppose $W \subseteq V$ be a subspace
+then $dim(W) \leq dim(V)$
 
+* EE368
+** Tree based sorting algorithms
+*** Tournament Sort
+Compares adjacent elements tournament style
+*** Heap Sort
+
+* ditaa test
+#+ATTR_LATEX: placement=[H] width=300
+#+begin_ditaa communication.png -r -s 1
+     +-----------+        +---------+
+     |    PLC    |        |         |
+     |  Network  +<------>+   PLC   +<---=---------+
+     |    cRED   |        |  c707   |              |
+     +-----------+        +----+----+              |b
+                               ^                   |
+                               |                   |
+                               |  +----------------|-----------------+
+                               |  |                |                 |
+                               v  v                v                 v
+       +----------+       +----+--+--+      +-------+---+      +-----+-----+      
+ Windows clients
+       |          |       |          |      |           |      |           |      
++----+      +----+
+       | Database +<----->+  Shared  +<---->+ Executive +<-=-->+ Operator  +<---->
+|cYEL| . . .|cYEL|
+       |   c707   |       |  Memory  |      |   c707    |      | Server    |      
+|    |      |    |
+       +--+----+--+       |{d} cGRE  |      +------+----+      |   c707    |      
++----+      +----+
+          ^    ^          +----------+             ^           +-------+---+
+          |    |                                   |
+          |    +--------=--------------------------+
+          v
+ +--------+--------+
+ |                 |
+ | Millwide System |            -------- Data ---------
+ | cBLU            |            --=----- Signals ---=--
+ +-----------------+
+#+end_ditaa
