@@ -1,4 +1,4 @@
-#+TITLE:     second-lcc-meeting.org
+#+TITLE:     Design meeting with Mike
 #+AUTHOR:    
 #+EMAIL:     mfivecoa@purdue.edu
 #+DATE:      2009-10-1 Thurs

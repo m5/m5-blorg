@@ -1,0 +1,20 @@
+#+TITLE:     index.org
+#+AUTHOR:    
+#+EMAIL:     mfivecoa@purdue.edu
+#+DATE:      2009-10-17 Sat
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+* Epics Notes
+** Project Partner Meetings
+*** [[first-lcc-meeting-notes.org][Initial meeting with Mike]]
+*** [[second-lcc-meeting.org][More design review with Mike]]
+* Reflections
+[[first-lcc-meeting-review.org][Initial project partner meeting reflection]]

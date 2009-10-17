@@ -1,4 +1,4 @@
-#+TITLE:     first-lcc-meeting-review.org
+#+TITLE:     Initial meeting with Mike - Reflection
 #+AUTHOR:    
 #+EMAIL:     mfivecoa@purdue.edu
 #+DATE:      2009-9-17 Thurs
