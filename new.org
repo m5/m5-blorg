@@ -53,3 +53,9 @@ Compares adjacent elements tournament style
  | cBLU            |            --=----- Signals ---=--
  +-----------------+
 #+end_ditaa
+#+begin_src emacs-lisp
+(defun foo (a b)
+  (if (> a b)
+      (* a b)
+    (foo (foo (- b a) a) (- a b))))
+#+end_src
