@@ -1,4 +1,4 @@
-#+TITLE:     index.org<2>
+#+TITLE:     
 #+AUTHOR:    
 #+EMAIL:     mfivecoa@purdue.edu
 #+DATE:      2009-10-17 Sat
@@ -12,4 +12,4 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+LINK_UP:   
 #+LINK_HOME: 
-You're likely looking for my [[epics/index][epics notebook]].
+You're likely looking for my [[epics/index.org][epics notebook]].
