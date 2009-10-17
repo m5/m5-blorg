@@ -7,7 +7,7 @@ then any vector $v$ can be written $v=\sum_{i=0}^n
 {a_iV_i}$
 ie: v=$\sum_{i=1}^n{a_iv_i} = \sum_{i=1}^n{b_iv_i}$
 ** Thm 4.12
-Suppose $dim(v) = n$
+Suppose \(dim(v) = n\)
 if $w_1,..,w_n \in V$, L.I. then $w_1,...,w_n$ forms a basis
 if $w_1,..,w_n$ span $V$ then $w_1,...,w_n$ forms a basis
 ** More
