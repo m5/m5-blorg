@@ -12,4 +12,4 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+LINK_UP:   
 #+LINK_HOME: 
-You're likely looking for my [[epics/index.org][epics notebook]].
+You're likely looking for my [[./epics/index.org][epics notebook]].
