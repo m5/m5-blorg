@@ -59,3 +59,7 @@ Compares adjacent elements tournament style
       (* a b)
     (foo (foo (- b a) a) (- a b))))
 #+end_src
+
+#+begin_src python
+print "poke!"*5
+#+end_src
