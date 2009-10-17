@@ -1,0 +1,15 @@
+* What he needs
+24/7 service 5 shifts
+volunteers availiability form
+volunteers sign up monthly
+local app preferred
+really just wants a way to locally manipulate schedule
+one volunteer per shift
+other ideas:
+database for:
+    volunteer information
+volunteers find their own replacements, find replacements based on prefs?
+maximize number
+
+* Contact
+mike @ lafayettechrisiscenter.org

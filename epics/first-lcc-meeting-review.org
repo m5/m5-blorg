@@ -1,0 +1,52 @@
+#+TITLE:     first-lcc-meeting-review.org
+#+AUTHOR:    
+#+EMAIL:     mfivecoa@purdue.edu
+#+DATE:      2009-9-17 Thurs
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+* What did you find out about the partner?
+
+We didn't know anything at all. We found out he needed a script to schedule his volunteers. They would tell him their availiability, and he needed something to generate a schedule.
+
+* How will that effect your design?
+
+That's the basis for our design. I mean, we had nothing before that. We do need to design the program so it can be extended easily in the fucture (they might want to enter the data directly)
+
+* What will we ask at the demo?
+
+Is this what you had in mind?
+ODes this satify your needs?
+Mostly we'll be watching him and seeing how he interacts with the program. See if we can find bottlenecks in the data entry process.
+
+* How does your project team plan to incorporate the project partner into the ongoing desing process?
+
+Keep in email contact with him and show him major updates, ask for his input constantly.
+
+* Responsibilities Reflection
+** Members/Responsibilities
+Responsibilities of each team job:
+Team Leader: She might do some stuff?
+Webmaster: Keep the website updated
+Project Partner Liason: Keep project partner 
+Team Member: Do as you are told.
+CFO: do the finance stuff
+
+** Rules
+food :-p
+
+
+** Reflection:
+All looks good. 
+Responsibe, active, share ideas, proactive, accountability, documentat, learn
+
+* Remember
+(first individual memo due next week)

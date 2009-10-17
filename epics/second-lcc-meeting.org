@@ -1,0 +1,24 @@
+#+TITLE:     second-lcc-meeting.org
+#+AUTHOR:    
+#+EMAIL:     mfivecoa@purdue.edu
+#+DATE:      2009-10-1 Thurs
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+So, we went to the lcc to meet with Mike.
+Some email specific days.
+Four a month required for committed people. (39 shifts)
+2s and 3s are roughly the same, 1s are low-low
+Blanks happen, they call people to try to fill them.
+Try to evenly space volunteers throughout the month. (aka, fewer double-shifts and such)
+Special requests, such as can't do certian days, are made.
+Typically once a week, four a month.
+Majority are required to work 39 for some reason.
