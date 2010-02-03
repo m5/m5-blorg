@@ -1,0 +1,67 @@
+#+TITLE:     Week 3
+#+AUTHOR:    
+#+EMAIL:     mfivecoa@lobontraul
+#+DATE:      2010-01-28 Thu
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+
+*** Agenda
+**** Progress Reports
+***** 
+**** Design activity discussion
+***** Team Leader
+Communicate with project leaders
+***** Project leader
+Ensure project members understand tasks and responsibilities.
+
+Run project meetings
+***** Project partner liason
+Talk to project partner
+***** Team Member
+Put out an effort to complete tasks
+
+Miss a meeting: tell people
+
+
+**** Code of Cooperation
+
+***** Team Members
+****** Show up on time for team meetings
+or at least tell someone
+****** Complete assigned tasks
+****** Reply to emails
+****** OBEY AUTHORITY
+****** good coding style
+****** cooperate
+****** put phones on silent
+****** NO MACS
+****** actively learn
+****** help with documentation
+
+***** Sanctions
+****** Random consumables
+
+**** Break for project work
+
+*** Upcoming
+**** Individual
+***** Week 4 Individual Memos
+This should be an index to your individual documentation. Fill out and
+submit to Blackboard by next lab. 
+
+Form available at [[http://bit.ly/biwVb9]], or the epics guidlines and forms
+page.
+
+***** Individual Documentation
+This should consist of anything that documents any work you have
+done. Design notebooks, blogs, and source code are all appriciated.
+
+**** Team
+***** Budget Due
